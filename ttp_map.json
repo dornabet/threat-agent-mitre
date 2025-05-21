@@ -1,0 +1,19 @@
+{
+  "emotet": {
+    "tactics": ["Credential Access", "Collection"],
+    "techniques": ["T1110", "T1114"]
+  },
+  "phishing": {
+    "tactics": ["Initial Access"],
+    "techniques": ["T1566"]
+  },
+  "c2": {
+    "tactics": ["Command and Control"],
+    "techniques": ["T1071"]
+  },
+  "brute force": {
+    "tactics": ["Credential Access"],
+    "techniques": ["T1110"]
+  }
+}
+
